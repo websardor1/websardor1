@@ -142,7 +142,7 @@
 ## 🧑‍💻 Hire Me
 
 <p align="center">
-  <a href="https://t.me/ali_equity">
+  <a href="https://t.me/sar1k_me7">
     <img src="https://img.shields.io/badge/Hire_Me-Работать_со_мной-success?style=for-the-badge"/>
   </a>
 </p>
