@@ -63,7 +63,7 @@
 ## 🚀 Мои проекты
 
 - 🌐 **Portfolio Website**  
-  https://ali-company.vercel.app/
+  https://websardor.uz/
 
 - 🛒 **E-commerce (React + Django)**  
   Онлайн магазин с оплатой (Click/Payme)
@@ -126,13 +126,13 @@
 ## 📫 Связь
 
 <p align="center">
-  <a href="https://t.me/ali_equity">
+  <a href="https://t.me/sar1k_me7">
     <img src="https://img.shields.io/badge/Telegram-Написать-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://instagram.com/websardor">
     <img src="https://img.shields.io/badge/Instagram-Профиль-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://rizayev-sardor.netlify.app/">
+  <a href="https://websardor.uz/">
     <img src="https://img.shields.io/badge/🌐_Сайт-Портфолио-black?style=for-the-badge"/>
   </a>
 </p>
