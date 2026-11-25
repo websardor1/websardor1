@@ -16,7 +16,7 @@
 - ⚡ Использую: SSR / SSG  
 - 🐍 Backend: Python + Django  
 - 🤖 Разрабатываю Telegram ботов  
-- 🌐 Сайт: https://rizayev-sardor.netlify.app 
+- 🌐 Сайт: https://websardor.uz 
 
 ---
 
